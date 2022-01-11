@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/LF/DFLog'
+  s.homepage         = 'https://github.com/danfei666/DFLog'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LF' => 'longfeiwang91@qq.com' }
-  s.source           = { :git => 'https://github.com/LF/DFLog.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/danfei666/DFLog.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
